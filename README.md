@@ -1,0 +1,2 @@
+# Sketch_Recognition
+Flowmind2Digital前置工作，识别50个常见类别的草图，数据集在本地
